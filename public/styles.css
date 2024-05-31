@@ -77,20 +77,36 @@ h2 {
     margin-bottom: 20px;
 }
 
-.job, .school {
+/* Unified Styles for Profile, Experience, Education, and Skills Sections */
+.profile, .experience, .education, .skills {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     margin-bottom: 20px;
 }
 
-ul {
+.profile h2, .experience h2, .education h2, .skills h2 {
+    color: #333;
+}
+
+.profile p, .experience p, .education p, .skills p,
+.profile ul, .experience ul, .education ul, .skills ul {
+    color: #555;
+}
+
+.profile ul, .experience ul, .education ul, .skills ul {
+    margin-top: 10px;
     list-style-type: none;
     padding: 0;
 }
 
-ul li {
-    background-color: #e4e4e4;
+.profile ul li, .experience ul li, .education ul li, .skills ul li {
+    background-color: #f0f0f0;
     padding: 10px;
-    margin-bottom: 10px;
+    border: 1px solid #ddd;
     border-radius: 4px;
+    margin-bottom: 5px;
 }
 
 .footer {
