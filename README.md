@@ -1,7 +1,7 @@
 # portfolio
 
 Authors:
-Taha Buyuktepe
+Taha Buyuktepe 300242563
 Alperen Akin 300290090
 
 Professor: Kalonji Kalala
