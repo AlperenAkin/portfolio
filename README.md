@@ -10,3 +10,5 @@ Assignment 1 CSI3140, html and css, resume/project website --> "public" director
 
 Repository link: https://github.com/AlperenAkin/portfolio
 
+GitHub Pages Link:  https://alperenakin.github.io/portfolio
+
